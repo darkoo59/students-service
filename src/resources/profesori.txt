@@ -1,0 +1,19 @@
+Milos,Nikolic,1965-12-12,Srbija:Novi Sad:Šafarikova:2,021/356-785,milos.nikolic@mailinator.com,Srbija:Novi Sad:Šafarikova:2,123123123,REDOVNI_PROFESOR,30,e42
+Nikola,Mirkovic,1978-01-01,Srbija:Novi Sad:Nikole Tesle:56,021/368-456,nikola.mirkovic@mailinator.com,Srbija:Novi Sad:Nikole Tesle:56,321321321,REDOVNI_PROFESOR,22,e42
+Ilija,Petkovic,1988-09-03,Srbija:Beograd:Bulevar Patrijarha Pavla:3,021/215-314,ilija.petkovic@mailinator.com,Srbija:Beograd:Bulevar Patrijarha Pavla:3,456456456,VANREDNI_PROFESOR,22,e43
+Mitar,Petrovic,1976-07-25,Srbija:Novi Sad:Stražilovksa:6a,021/884-640,mitar.petrovic@mailinator.com,Srbija:Novi Sad:Stražilovksa:6a,789789789,VANREDNI_PROFESOR,27,e44
+Vasa,Micic,1970-02-14,Srbija:Kikinda:Nikole Pašića:2d,021/212-114,vasa.micic@mailinator.com,Srbija:Kikinda:Nikole Pašića:2d,100100144,DOCENT,24,e46
+Srdjan,Miletic,1966-04-20,Srbija:Niš:Bulevar Kralja Petra:22,021/978-225,srdjan.miletic@mailinator.com,Srbija:Niš:Bulevar Kralja Petra:22,200020244,DOCENT,31,e47
+Branislav,Mihajlovic,1980-06-28,Srbija:Novi Sad:Tolstojeva:31,021/778-323,branislav.mihajlovic@mailinator.com,Srbija:Novi Sad:Tolstojeva:31,559585632,REDOVNI_PROFESOR,13,e45
+Marko,Marković,1985-01-31,Srbija:Kragujevac:Marićeva:11,021/899-659,marko.markovic@mailinator.com,Srbija:Kragujevac:Marićeva:11,334968855,REDOVNI_PROFESOR,17,e43
+Miloš,Milaković,1975-09-21,Srbija:Beograd:Stražilovska:3,021/122-326,milos.milakovic@mailinator.com,Srbija:Beograd:Stražilovska:3,730703654,VANREDNI_PROFESOR,12,e44
+Lazar,Bratić,1973-11-13,Srbija:Novi Sad:Nikole Pašića:6a,021/156-326,lazar.bratic@mailinator.com,Srbija:Novi Sad:Nikole Pašića:6a,600378644,VANREDNI_PROFESOR,3,e45
+Ljeposava,Dražić,1964-08-11,Srbija:Niš:Bulevar Kralja Petra:2d,021/888-156,ljeposava.drazic@mailinator.com,Srbija:Niš:Bulevar Kralja Petra:2d,158496152,DOCENT,31,e46
+Miroljub,Dragić,1959-03-02,Srbija:Beograd:Knez Mihajlova:22,021/456-125,miroljub.dragic@mailinator.com,Srbija:Beograd:Knez Mihajlova:22,777348595,DOCENT,42,e47
+Bogdan,Rekavić,1977-06-23,Srbija:Niš:Bulevar Kralja Petra:22,021/886-455,bogdan.rekavic@mailinator.com,Srbija:Niš:Bulevar Kralja Petra:22,721254363,VANREDNI_PROFESOR,18,e46
+Stanka,Milić,1991-03-03,Srbija:Beograd:Bulevar Patrijarha Pavla:3,021/945-155,stanka.milic@mailinator.com,Srbija:Beograd:Bulevar Patrijarha Pavla:3,225533448,DOCENT,7,e43
+Milica,Vuković,1967-10-18,Srbija:Kragujevac:Marićeva:11,021/746-659,milica.vukovic@mailinator.com,Srbija:Kragujevac:Marićeva:11,111555888,VANREDNI_PROFESOR,14,e44
+Miša,Mišić,1969-10-20,Srbija:Novi Sad:Šafarikova:2,021/489-326,misa.misic@mailinator.com,Srbija:Novi Sad:Šafarikova:2,300300344,DOCENT,19,e45
+Branko,Maricić,1973-01-18,Srbija:Novi Sad:Nikole Tesle:56,021/487-265,branko.maricic@mailinator.com,Srbija:Novi Sad:Nikole Tesle:56,400400444,DOCENT,22,e46
+Branislav,Lukovic,1982-04-08,Srbija:Beograd:Bulevar Patrijarha Pavla:3,021/159-478,branislav.lukovic@mailinator.com,Srbija:Beograd:Bulevar Patrijarha Pavla:3,500500544,REDOVNI_PROFESOR,9,e47
+Branimir,Obradović,1979-01-07,Srbija:Novi Sad:Šafarikova:2,021/922-333,branimir.obradovic@mailinator.com,Srbija:Novi Sad:Šafarikova:2,600600644,DOCENT,17,e42

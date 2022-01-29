@@ -1,0 +1,27 @@
+Marko,Milosevic,2001-03-12,Srbija:Novi Sad:Šafarikova:2,021/333-555,marko.milosevic@mailinator.com,RA 2/2020,2020,1,BUDZET,0.0
+Marija,Milić,2000-01-12,Srbija:Novi Sad:Nikole Tesle:56,021/555-2222,marija.milic@mailinator.com,RA 3/2019,2019,2,SAMOFINANSIRANJE,10.0
+Nikola,Nikolic,2001-08-30,Srbija:Beograd:Bulevar Patrijaha Pavla:3,021/135-463,nikola.nikolic@mailinator.com,RA 3/2017,2017,1,BUDZET,0.0
+Sofija,Ilic,1999-05-06,Srbija:Kikinda:Nikole Pašića:2d,021/731-067,sofija.ilic@mailinator.com,RA 5/2019,2019,3,BUDZET,0.0
+Martina,Lukic,1999-05-16,Srbija:Niš:Bulevar Kralja Petra:22,011/4333-800,martina.lukic@mailinator.com,RA 8/2018,2018,3,SAMOFINANSIRANJE,0.0
+Stojan,Stojakovic,2001-10-19,Srbija:Novi Sad:Tolstojeva:31,011/3130-007,stojan.stojakovic@mailinator.com,RA 10/2017,2017,1,BUDZET,0.0
+Milan,Milanovic,2000-11-02,Srbija:Kragujevac:Marićeva:11,015/313-061,milan.milanovic@mailinator.com,RA 12/2017,2017,2,SAMOFINANSIRANJE,0.0
+Miroslav,Milic,2000-10-11,Srbija:Beograd:Stražilovska:3,021/351-091,miroslav.milic@mailinator.com,RA 16/2019,2019,2,BUDZET,0.0
+Stefan,Gojic,1999-05-01,Srbija:Novi Sad:Nikole Pašića:6a,015/324-500,stefan.gojic@mailinator.com,RA 21/2015,2015,3,SAMOFINANSIRANJE,0.0
+Anastasija,Jokic,1999-07-11,Srbija:Niš:Bulevar Kralja Petra:2d,011/2333-900,anastasija.jokic@mailinator.com,RA 9/2020,2020,3,BUDZET,0.0
+Bogdan,Bogdanovic,1999-07-23,Srbija:Beograd:Knez Mihajlova:22,021/231-231,bogdan.bogdanovic@mailinator.com,RA 4/2017,2017,3,SAMOFINANSIRANJE,0.0
+Mika,Mikic,2001-11-15,Srbija:Novi Sad:Nikole Tesle:56,015/101-909,mika.mikic@mailinator.com,RA 1/2020,2020,1,SAMOFINANSIRANJE,0.0
+Jovan,Deretic,1998-09-10,Srbija:Beograd:Bulevar Patrijaha Pavla:3,002/200-300,jovan.deretic@mailinator.com,RA 11/2018,2018,4,BUDZET,8.5
+Nikola,Miskovic,1998-08-03,Srbija:Novi Sad:Stražilovska:6a,022/123-456,nikola.miskovic@mailinator.com,RA 12/2018,2018,4,SAMOFINANSIRANJE,9.5
+Tomislav,Novakovic,1996-02-25,Srbija:Niš:Bulevar Kralja Petra:22,011/1188-379,tomislav.novakovic@mailinator.com,RA 14/2018,2018,4,BUDZET,0.0
+Lena,Ivic,1998-05-11,Srbija:Novi Sad:Tolstojeva:31,024/333-555,lena.ivic@mailinator.com,RA 154/2016,2016,4,BUDZET,0.0
+Jovan,Lazic,2001-01-22,Srbija:Kragujevac:Marićeva:11,025/1189-479,jovan.lazic@mailinator.com,RA 23/2020,2020,1,BUDZET,0.0
+Isidora,Mikic,2000-12-31,Srbija:Beograd:Stražilovska:3,011/1122-366,isidora.mikic@mailinator.com,RA 1/2019,2019,2,BUDZET,0.0
+Vladimir,Ilic,1998-08-31,Srbija:Novi Sad:Nikole Pašića:6a,0211122-367,vladimir.ilic@mailinator.com,SW 4/2014,2014,4,BUDZET,0.0
+Mirko,Alicic,1999-07-21,Srbija:Niš:Bulevar Kralja Petra:2d,012/1122-368,mirko.alicic@mailinator.com,SW 17/2015,2015,3,SAMOFINANSIRANJE,0.0
+Milisav,Perković,1998-09-28,Srbija:Beograd:Knez Mihajlova:22,012/1122-369,milisav.pejkovic@mailinator.com,SW 17/2016,2016,4,SAMOFINANSIRANJE,0.0
+Purisa,Djordjević,2000-02-29,Srbija:Beograd:Bulevar Patrijaha Pavla:3,011/1543-370,purisa.djordjevic@mailinator.com,SW 27/2018,2018,2,BUDZET,0.0
+Mikica,Kovacević,1999-03-23,Srbija:Kikinda:Nikole Pašića:2d,011/1992-371,mikica.kovacevic@mailinator.com,RA 226/2017,2017,3,SAMOFINANSIRANJE,0.0
+Miloš,Milić,2000-10-21,Srbija:Novi Sad:Nikole Tesle:56,011/8172-372,milos.milic@mailinator.com,SW 12/2021,2021,1,SAMOFINANSIRANJE,0.0
+Ana,Dabovic,2001-12-12,null,021/231-231,ana.dabovic@mailinator.com,RA 30/2019,2019,1,BUDZET,0.0
+Pera,Peric,1995-06-07,Srbija:Novi Sad:Stražilovska:6a,021/903-463,pera.peric@mailinator.com,RA 134/2015,2015,3,SAMOFINANSIRANJE,9.0
+Martin,Stojanovic,1998-05-01,null,024/321-775,martin.stojanovic@mailinator.com,RA 13/2018,2018,4,SAMOFINANSIRANJE,0.0

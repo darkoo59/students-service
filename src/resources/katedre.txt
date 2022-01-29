@@ -1,0 +1,6 @@
+e42,Katedra za matematiku,321321321
+e43,Katedra za fiziku,456456456
+e44,Katedra za elektrotehniku,789789789
+e45,Katedra za primenjene računarske nauke,559585632
+e46,Katedra za informatiku,721254363
+e47,Katedra za automatiku,500500544
