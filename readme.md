@@ -1,31 +1,11 @@
-Darko Selakovic:
-1. Model(Student, Professor, Adress)
-2. Menu Bar
-3. Status Bar
-4. Prikaz entiteta sistema
-5. Izmena informacija o entitetu
-6. Prikaz nepolozenih predmeta
-7. Dodavanje studenta na predmet
-8. Upis ocene
-9. Sortiranje entiteta
-10. Dodavanje predmeta profesoru
-11. Uklanjanje predmeta sa liste predmeta
-12. Lokalizacija
-13. Help/About
-
-Srdjan Stjepanovic:
-1. Model(Subject, Mark, Department)
-2. Pokretanje aplikacije
-3. Toolbar
-4. Dodavanje novog entitet
-5. Brisanje entiteta iz sistema
-6. Prikaz polozenih ispita
-7. Ponistavanje ocene
-8. Uklanjanje studenta sa predmeta
-9. Pretraga entiteta
-10. Prikaz predmeta koje profesor predaje
-11. Dodavanje profesora na predmet
-12. Uklanjanje profesora sa predmeta
-13. Postavljanje sefa katedre
-
-Serijalizacija radjena po potrebi od strane oba studenta
+# Students Service
+ <br>
+Technologies used: Java (Swing)<br><br>
+The project was done by: darkoo59, srdjan1210<br><br>
+Description: Project done at third year of university. We have worked on the project from October 2021 to January 2022<br><br>
+Specification: You can read complete specification <a href="https://github.com/srdjan1210/college-student-service/blob/master/ОИСИСИ%20спецификација%20пројекта%202021_2022.pdf" target="blank">here</a><br><br>
+Screenshots:<br> <br>
+<img src = "https://github.com/srdjan1210/college-student-service/blob/master/src/resources/ss1.png"></img> <br>
+<img src = "https://github.com/srdjan1210/college-student-service/blob/master/src/resources/ss2.png"></img> <br>
+<img src = "https://github.com/srdjan1210/college-student-service/blob/master/src/resources/ss3.png"></img> <br>
+<img src = "https://github.com/srdjan1210/college-student-service/blob/master/src/resources/ss4.png"></img> <br>
